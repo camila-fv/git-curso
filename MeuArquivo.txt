@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello Word - Estou vivo !!!
 Olá, turo pom???
 
