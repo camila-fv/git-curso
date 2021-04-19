@@ -1,2 +1,5 @@
-Hello Word 
+<<<<<<< HEAD
+Hello Word - Estou vivo !!!
+Olá, turo pom???
+
 Hoje fez sol, chuva e garoa =)
